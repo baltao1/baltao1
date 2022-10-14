@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Akash (pronounced ah-k-ah-sh. aa-KAH-SH)<br>
+
+<div>
+<div>A</div>
+<div>K</div>
+<div>A</div>
+<div>S</div>
+<div>H</div>
+<div></div>
+</div>
 
 <!--
 **baltao1/baltao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,12 +1,12 @@
 ### Hi there 👋 My name is Akash (pronounced ah-k-ah-sh. aa-KAH-SH)<br>
 
-<div>
-<div>A</div>
-<div>K</div>
-<div>A</div>
-<div>S</div>
-<div>H</div>
-<div></div>
+<div style="display:grid;grid-template-columns: repeat(3, 1fr)">
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(1).jpg"></div>
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(1).png"></div>
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(2).png"></div>
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(2).jpg"></div>
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(3).png"></div>
+<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(4).png"></div>
 </div>
 
 <!--

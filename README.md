@@ -1,14 +1,6 @@
 ### Hi there 👋 My name is Akash (pronounced ah-k-ah-sh. aa-KAH-SH)<br>
 
 
-<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(1).jpg">
-<img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(1).png"></div>
-<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(2).png">
-<img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(2).jpg"></div>
-<div><img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(3).png">
-<img src="https://raw.githubusercontent.com/baltao1/baltao1/main/profile_picture%20(4).png"></div>
-
-
 <!--
 **baltao1/baltao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

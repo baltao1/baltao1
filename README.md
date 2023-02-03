@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img src="https://github.com/baltao1/baltao1/blob/main/github-contribution-grid-snake.svg">
-https://github.com/baltao1/baltao1/blob/main/github-contribution-grid-snake.svg
-</div>
+
+
+
